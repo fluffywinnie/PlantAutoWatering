@@ -10,6 +10,8 @@
 APP: https://github.com/Youhavetotry/PlantWateringApp
 
 教授提供給我們的物品:  
-★ 樹莓派4B  
-★ 麵包板  
-★ SD卡  
+★ 樹莓派4B mini x 1  
+★ 麵包板 x 1    
+★ SD卡 x 1  
+★ 鋰電池 x 2  
+★ 鋰電池充電座 x 1  

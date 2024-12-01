@@ -7,6 +7,8 @@
 11114176 黃永樂  
 11114059 王翌丞  
 
+APP:https://github.com/Youhavetotry/PlantWateringApp/tree/master
+
 教授提供給我們的物品:  
 ★ 樹莓派4B  
 ★ 麵包板  

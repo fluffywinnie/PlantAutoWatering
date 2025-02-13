@@ -15,5 +15,5 @@ APP: https://github.com/Youhavetotry/PlantWateringAPP
 ★ SD卡 x 1  
 ★ 鋰電池 x 2  
 ★ 鋰電池充電座 x 1  
-★ 散熱膏 x 1
+★ 散熱膏 x 1 
 ★ 杜邦線 x N    
